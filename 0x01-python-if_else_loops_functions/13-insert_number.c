@@ -4,7 +4,7 @@
  * insert_node - Inserts a number into a sorted singly-linked list.
  * @head: A pointer the head of the linked list.
  * @number: Number to insert.
- * Author - Asak Erhumuose
+ * Author -Yange Stephanie
  * Return: If function fails - NULL.
  *         Otherwise - a pointer to the new node.
  */
